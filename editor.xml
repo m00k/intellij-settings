@@ -3,6 +3,6 @@
     <option name="FONT_SIZE" value="18" />
   </component>
   <component name="EditorSettings">
-    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
 </application>
