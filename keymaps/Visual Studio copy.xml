@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="alt minus" />
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
